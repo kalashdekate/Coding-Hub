@@ -1,2 +1,3 @@
-# Coding-Hub
+# Coding Projects
 This is My First Git Repository 
+Author:Kalash Dekate
